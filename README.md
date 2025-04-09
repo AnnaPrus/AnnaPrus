@@ -7,10 +7,12 @@
 - 📝 My certification:
   - *[Advanced Data Modeling](https://www.coursera.org/account/accomplishments/certificate/0QSM3MJL9NDV)*  
   - *[IBM Data Engineering](https://coursera.org/share/357ce8ca1f1b25b9e5aea35080c1fc85)*
-    
+
 ### 💡 Currently exploring
 
 - Data pipelines & ETL concepts  
 - Cloud services for data (AWS, GCP basics)  
 - Visualization with Seaborn & Matplotlib  
 - Building my GitHub portfolio with fun, hands-on projects 🚀
+  
+### [Please, check out my portfolio here!](https://github.com/AnnaPrus/Portfolio)
