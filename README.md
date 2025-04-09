@@ -2,5 +2,5 @@
 
 🔭 I’m currently learning data engineering, Python, pandas, and Git  
 🌱 I love visualizing data and building cool projects  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anna-prus-solutions-engineer/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anna-prus-solutions-engineer/)  
 ⚡ Fun fact: I love hiking and coffee ☕
