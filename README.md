@@ -15,6 +15,6 @@
 - Visualization with Seaborn & Matplotlib  
 - Building my GitHub portfolio with fun, hands-on projects 🚀
 
- *[Tableau project]*(https://public.tableau.com/app/profile/anna.prus8703/viz/Book1_17449975232300/Dashboard1?publish=yes)
+ *[Tableau project](https://public.tableau.com/app/profile/anna.prus8703/viz/Book1_17449975232300/Dashboard1?publish=yes)*
   
 ### [Please, check out my portfolio here!](https://github.com/AnnaPrus/Portfolio)
