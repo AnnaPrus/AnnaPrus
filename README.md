@@ -4,7 +4,7 @@
 🌱 I love visualizing data and building cool projects  
 📫 How to reach me: *[LinkedIn](https://www.linkedin.com/in/anna-prus-solutions-engineer/)*  
 
-- 📝 My certification:
+- 📝 My certifications:
   - *[Advanced Data Modeling](https://www.coursera.org/account/accomplishments/certificate/0QSM3MJL9NDV)*  
   - *[IBM Data Engineering](https://www.coursera.org/account/accomplishments/certificate/S5W3SODDVLSO) (16 courses)*
 
