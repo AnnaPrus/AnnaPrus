@@ -6,7 +6,7 @@
 
 - 📝 My certification:
   - *[Advanced Data Modeling](https://www.coursera.org/account/accomplishments/certificate/0QSM3MJL9NDV)*  
-  - *[IBM Data Engineering](https://www.coursera.org/account/accomplishments/certificate/S5W3SODDVLSO)*
+  - *[IBM Data Engineering](https://www.coursera.org/account/accomplishments/certificate/S5W3SODDVLSO)* (16 courses)
 
 ### 💡 Currently exploring
 
