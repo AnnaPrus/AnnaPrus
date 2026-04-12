@@ -11,9 +11,9 @@ I'm building my skills in data engineering through hands-on projects focused on 
 - dbt, Airflow, Docker, and infrastructure as code
 - Building practical portfolio projects end to end
 
-- 📝 Certifications:
-  - *[Advanced Data Modeling](https://www.coursera.org/account/accomplishments/certificate/0QSM3MJL9NDV)*  
-  - *[IBM Data Engineering](https://coursera.org/share/5d7db661e39977cbd4ad01382a2ff4ad) (16 courses)*
+📝 Certifications:
+- *[Advanced Data Modeling](https://www.coursera.org/account/accomplishments/certificate/0QSM3MJL9NDV)*  
+- *[IBM Data Engineering](https://coursera.org/share/5d7db661e39977cbd4ad01382a2ff4ad) (16 courses)*
 
 📫 How to reach me: *[LinkedIn](https://www.linkedin.com/in/anna-prus-solutions-engineer/)*
 
