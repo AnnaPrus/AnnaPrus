@@ -17,6 +17,6 @@ I'm building my skills in data engineering through hands-on projects focused on 
 
 📫 Connect with me on: *[LinkedIn](https://www.linkedin.com/in/anna-prus-solutions-engineer/)*
 
-📊 Explore *[My Tableau Project](https://public.tableau.com/app/profile/anna.prus8703/viz/BritishAirwaysReview_17453416682820/Dashboard1)
+📊 Explore *[My Tableau Project](https://public.tableau.com/app/profile/anna.prus8703/viz/BritishAirwaysReview_17453416682820/Dashboard1)*
   
 ### [Please check out my portfolio here!](https://github.com/AnnaPrus/Portfolio)
