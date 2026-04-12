@@ -15,8 +15,8 @@ I'm building my skills in data engineering through hands-on projects focused on 
 - *[Advanced Data Modeling](https://www.coursera.org/account/accomplishments/certificate/0QSM3MJL9NDV)*  
 - *[IBM Data Engineering](https://coursera.org/share/5d7db661e39977cbd4ad01382a2ff4ad) (16 courses)*
 
-📫 How to reach me: *[LinkedIn](https://www.linkedin.com/in/anna-prus-solutions-engineer/)*
+📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/anna-prus-solutions-engineer/)
 
- *[Tableau Dashboard Project](https://public.tableau.com/app/profile/anna.prus8703/viz/BritishAirwaysReview_17453416682820/Dashboard1)*
+📊 [Explore My Tableau Project](https://public.tableau.com/app/profile/anna.prus8703/viz/BritishAirwaysReview_17453416682820/Dashboard1)
   
 ### [Please check out my portfolio here!](https://github.com/AnnaPrus/Portfolio)
