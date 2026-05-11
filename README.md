@@ -14,6 +14,7 @@ I'm building my skills in data engineering through hands-on projects focused on 
 📝 Certifications:
 - *[Advanced Data Modeling](https://www.coursera.org/account/accomplishments/certificate/0QSM3MJL9NDV)*  
 - *[IBM Data Engineering](https://coursera.org/share/5d7db661e39977cbd4ad01382a2ff4ad) (16 courses)*
+- *[DATA ENGINEERING ZOOMCAMP](https://certificate.datatalks.club/dezoomcamp/2026/54fa0740e8e4a5ae745b6bffab9c7d53835497ff.pdf)*
 
 📫 Connect with me on: *[LinkedIn](https://www.linkedin.com/in/anna-prus-solutions-engineer/)*
 
